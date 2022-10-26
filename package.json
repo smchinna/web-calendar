@@ -1,0 +1,29 @@
+{
+    "name": "web-calendar",
+    "version": "1.0.0",
+    "description": "calendar view for the browser application",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/smchinna/web-calendar.git"
+    },
+    "keywords": [
+      "calendar",
+      "web-calendar",
+      "react-calendar",
+      "year-calendar",
+      "month-calendar",
+      "daywise-calendar",
+      "input-calendar"
+    ],
+    "author": "smchinna",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/smchinna/web-calendar/issues"
+    },
+    "homepage": "https://github.com/smchinna/web-calendar#readme"
+  }
+  
